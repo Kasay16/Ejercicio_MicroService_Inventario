@@ -1,4 +1,4 @@
-package co.edu.unilibre.inventariorepository;
+package co.edu.unilibre.inventario.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
